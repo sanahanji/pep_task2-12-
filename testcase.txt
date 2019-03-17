@@ -1,0 +1,50 @@
+Test case 1:
+ Simple interest 
+ Enter principle amount : 100000
+
+ Enter rate of interest : 9
+
+ Enter no. of years : 2
+ Enter your choice 
+ 1.Simple interest 
+ 2.Compound interest 
+ Enter no. : 7
+ invalid option 
+
+
+
+
+
+
+
+Test case 2:
+ Simple interest 
+ Enter principle amount : 100000
+
+ Enter rate of interest : 9
+
+ Enter no. of years : 2
+ Enter your choice 
+ 1.Simple interest 
+ 2.Compound interest 
+ Enter no. : 1
+ interest amount : 18000.0
+
+
+
+
+
+
+
+Test case 3:
+Simple interest 
+ Enter principle amount : 100000
+
+ Enter rate of interest : 9
+
+ Enter no. of years : 2
+ Enter your choice 
+ 1.Simple interest 
+ 2.Compound interest 
+ Enter no. : 2
+ interest amount : 18810.008
